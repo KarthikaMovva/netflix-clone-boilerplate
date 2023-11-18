@@ -1,0 +1,253 @@
+.bgr{
+    position: relative;
+    z-index: -1;
+}
+.one{
+    position: absolute;
+    top: 50px;
+    left: 60px;
+    display: flex;
+}
+.one p{
+    color: white;
+    margin-left: 20px;
+    margin-top: 5px;
+    text-align: center;
+}
+.two{
+    /* border: 1px solid black; */
+    position: absolute;
+    top: 45px;
+    left: 1200px;
+   
+}
+.box,.note,.red,.dwn{
+    /* border: 1px solid black; */
+    margin-left: 20px;
+}
+.sym{
+    display: flex;
+    position: absolute;
+    top: 400px;
+    left: 90px;
+}
+.sym p{
+    color: white;
+    /* border: 1px solid black */
+}
+.m{
+    position: absolute;
+    color: white;
+    font-size: 100px;
+    top: 350px;
+    left: 80px;
+}
+.btn{
+    display: flex;
+    position: absolute;
+    top: 570px;
+    left: 100px;
+}
+.play{
+    height: 35px;
+    width: 70px;
+    border: 1px solid white;
+    margin-right: 40px;
+    background-color: white;
+     text-align: center;
+    align-items: center;
+    /* padding-top: 5px ; */
+    padding-bottom: 5px;
+    display: flex;
+    border-radius: 5px;
+  
+}
+.inf{
+    /* border: 1px solid white; */
+    height: 40px;
+    width: 100px;
+   background-color: hsla(0, 11%, 79%, 0.5);
+   color: white;
+   display: flex;
+   text-align: center;
+   align-items: center;
+   border-radius: 5px;
+}
+.p{
+    /* border: 1px solid black; */
+    margin-top: 5px;
+}
+.d{
+    margin-top: 5px;
+    margin-left: 5px;
+    
+}
+
+.header1{
+    position: absolute;
+    color: white;
+    top: 700px;
+    display: flex;
+    align-items: center;
+    left: 100px;
+}
+.right{
+    /* border: 1px solid white; */
+    margin-left: 20px;
+}
+.header1 p{
+    font-size: larger;
+    font-weight: 900;
+}
+.sec1{
+    position: absolute;
+    top: 770px;
+    left: 100px;
+    /* justify-content: space-between; */
+}
+.n1,.n2,.n3,.n4,.n5{
+    margin-right: 20px;
+}
+.header2{
+    background-color: #141414;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 1300px;
+    display: flex;
+    right: 100px;
+    border: 10px solid  #141414 ;
+   
+}
+.header2 p{
+    font-size: larger;
+    font-weight: 900;
+    /* border: 1px solid white; */
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.right1{
+    /* border: 1px solid white; */
+    margin-top: 22px;
+    padding-left: 25px;
+}
+.sec2{
+    top:1020px;
+    position: absolute;
+    display: flex;
+    /* justify-content: space-between; */
+}
+.c1,.c2,.c3,.c4,.c5{
+    margin-left: 10px;
+}
+.header3{
+    display: flex;
+    background-color: #141414;
+   
+    /* border: 1px solid black; */
+    color: white;
+    font-size: larger;
+    font-weight: 900;
+    position: absolute;
+    top: 1300px;
+    left: 120px;
+}
+.sec3{
+    display: flex;
+    position: absolute;
+    top: 1370px;
+    left: 100px;
+}
+.m1,.m2,.m3,.m4,.m5{
+    margin-left: 20px;
+}
+.header4{
+    display: flex;
+    position: absolute;
+    font-size: larger;
+    color: white;
+    font-weight: 900;
+    top: 1600px;
+    left: 120px;
+}
+.sec4{
+    display: flex;
+    position: absolute;
+    top: 1670px;
+    left: 100px;
+}
+.k1,.k2,.k3,.k4,.k5{
+    margin-left: 20px;
+}
+.app{
+    display: flex;
+    position: absolute;
+    top: 1950px;
+    left: 410px;
+}
+.a1,.a2,.a3,.a4{
+    margin-right: 20px;
+}
+.b1{
+    display: flex;
+    position: absolute;
+    /* border: 1px solid white; */
+    top:2000px;
+    color: rgb(86, 83, 83);
+    left: 410px;
+}
+.b2{
+    display: flex;
+    position: absolute;
+    /* border: 1px solid white;  */
+    color: rgb(86, 83, 83);
+    top: 2050px;
+    left: 410px;
+}
+.b3{
+    display: flex;
+    position: absolute;
+    /* border: 1px solid white;  */
+    color: rgb(86, 83, 83);; 
+    top:2090px;
+    left: 410px;
+}
+.bb1,.bb2,.bb3,.bb4{
+    margin-right: 70px;
+}
+.bt2{
+    margin-left: 117px;
+}
+.bt3{
+    margin-left: 65px;
+}
+.bt4{
+    margin-left: 100px;
+}
+.be2{
+    margin-left: 168px;
+}
+.be3{
+    margin-left: 85px;
+}
+.be4{
+    margin-left: 81px;
+}
+.last{
+    position: absolute;
+    border: 2px solid rgb(86, 83, 83);
+    height: 30px;
+    width: 100px;
+    top: 2170px;
+    left: 410px;
+    color: rgb(86, 83, 83);
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.end{
+    position: absolute;
+    top: 2250px;
+    left: 410px;
+    color:  rgb(86, 83, 83);
+    /* border: 1px solid black; */
+
+}
