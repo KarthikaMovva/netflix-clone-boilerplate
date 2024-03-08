@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "netflix-clone-boilerplate",
+			"path": "."
+		},
+		{
+			"name": "netflix-res",
+			"path": "../../../OneDrive/Desktop/netflix-res"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "netflix-clone-boilerplate"
+	}
+}
